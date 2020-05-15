@@ -1,0 +1,41 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: gold;
+}
+
+h1 {
+  display: inline-block;
+  margin-top: 100px;
+}
+
+
+.top-container {
+  background-color: #abf0e9;
+  height: 627px;
+  position: relative;
+  text-align: center;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 240px;
+  top: 50px;
+}
+
+
+.bottom-cloud {
+  display: inline-block;
+  position: absolute;
+  left: 240px;
+  top: 150px;
+}
+
+
+.mountain {
+  position: absolute;
+  bottom: 1px;
+  right: 360px;
+}
